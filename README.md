@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarah-vandyk
-- 👀 I’m interested in understanding human trafficking through data analysis and visualization
+- 👀 I’m interested in understanding human trafficking and HIV prevention through data analysis and visualization
 - 🌱 I’m currently learning social network analysis
 - 💞️ I’m looking to collaborate on anti-trafficking research
 - 📫 How to reach me sarah.e.sowell@vanderbilt.edu
