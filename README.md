@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarah-vandyk
-- 👀 I’m interested in understanding human trafficking and HIV prevention through data analysis and visualization
+- 👀 I’m interested in understanding human trafficking and HIV prevention through data analysis
 - 🌱 I’m currently learning social network analysis
-- 💞️ I’m looking to collaborate on anti-trafficking research
+- 💞️ I’m looking to collaborate on anti-human trafficking research
 - 📫 How to reach me sarah.e.sowell@vanderbilt.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have a cat named Ducky
